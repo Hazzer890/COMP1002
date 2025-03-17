@@ -1,4 +1,3 @@
-package PracticalThree;
 
 import java.util.Scanner;
 

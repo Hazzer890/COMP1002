@@ -1,4 +1,3 @@
-package PracticalThree;
 
 public class Fibonacci {
 

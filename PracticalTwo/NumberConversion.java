@@ -1,4 +1,3 @@
-package PracticalThree;
 
 public class NumberConversion {
     public static String convertToBase(int number, int base) {
